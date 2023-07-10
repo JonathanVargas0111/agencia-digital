@@ -1,5 +1,5 @@
 import React from 'react'
-import Navigation from '../components/molecules/navigations'
+import Navigation from '../components/molecules/Navigations'
 import Header from '../components/organisms/Header'
 import Intro from '../components/organisms/Intro'
 import Banner from '../components/organisms/Banner'
