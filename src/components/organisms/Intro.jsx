@@ -15,7 +15,7 @@ const Intro = () => {
                 <button className="btn btn-outline-primary btn-lg text-center">Más Información</button>
               </div>
               <div className="col-sm-12 col-md-6">
-                <img src="/public/img/imgSectionIntro.jpg" alt="img intro" className='img-thumbnail img-fluid'/>
+                <img src="/img/imgSectionIntro.jpg" alt="img intro" className='img-thumbnail img-fluid'/>
               </div>
             </div>
         </div>  
